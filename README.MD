@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/CAPA.PNG"
+    src="./assets/CAPA-PODCAST.PNG"
     width="300"
 />
 </p>
